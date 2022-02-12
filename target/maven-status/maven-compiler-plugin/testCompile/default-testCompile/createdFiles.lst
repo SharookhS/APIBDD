@@ -1,0 +1,7 @@
+parallelapi\api\Hooks.class
+parallelapi\api\TestRunner.class
+parallelapi\api\PlaceValidations.class
+resources\APIResources.class
+resources\ConfigReader.class
+resources\TestDataBuild.class
+resources\Utils.class
