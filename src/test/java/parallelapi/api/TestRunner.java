@@ -7,7 +7,11 @@ import io.cucumber.junit.CucumberOptions;
 
 @RunWith(Cucumber.class)
 @CucumberOptions(
-		plugin = {"json:target/jsonReports/cucumber-report.json"},
+		plugin = {
+//				"pretty",
+				"json:target/jsonReports/cucumber-report.json",
+//				"com.aventstack.extentreports.cucumber.adapter.ExtentCucumberAdapter:"
+				},
 		glue = { "parallelapi.api"},
 		features = { "src/test/java/features" }
 		)

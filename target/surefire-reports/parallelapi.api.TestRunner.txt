@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: parallelapi.api.TestRunner
 -------------------------------------------------------------------------------
-Tests run: 3, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 15.498 s - in parallelapi.api.TestRunner
+Tests run: 3, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 17.679 s - in parallelapi.api.TestRunner
